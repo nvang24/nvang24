@@ -1,5 +1,7 @@
-### <div align="left">Hi 👋, I'm Naomi, </br> former marketing strategist 👨‍💻 turned business intelligence analyst 📈</div>  
-  
+### <div align="center">Hi 👋, I'm Naomi, </br> 
+</br>
+former marketing strategist 👨‍💻 turned business intelligence analyst 📈</div>  
+</br>
 
 - 🔭 I’m currently working through TripleTen Business Intelligence Analytics Program.  
   
